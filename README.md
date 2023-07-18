@@ -19,6 +19,9 @@ This is a Sticky Notes app developed in Visual Basic 6. It is a lightweight and 
 ![Sticky Notes App](ss.PNG)
 
 ## Installation
+To use this software, download from release section and open it as administrator. 
+
+## Development
 
 To use the Sticky Notes app, follow these steps:
 
